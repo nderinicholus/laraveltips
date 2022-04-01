@@ -10,4 +10,4 @@ I am using practicing some laravel tips by building a project and incorporating 
 
 Special shoutout to https://github.com/LaravelDaily for all their great tips and tutorials
 
-Thanks
+Thanks and thanks
