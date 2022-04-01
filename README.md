@@ -4,7 +4,7 @@
 Build, Build, build something
 </p>
 
-## About Laravel
+## About my Laravel Tips
 
 I am using practicing some laravel tips by building a project and incorporating these tips there. I will be adding these tips on a daily basis.
 
